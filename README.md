@@ -4,7 +4,7 @@
 ## Nombre del personaje
 Arbol de navidad inteligente 
 ## Creador
-Bryan Emilio Arredondo López 
+Bryan Emilio Arredondo López GDS0643 1223100380
 ## Explicacion del funcionamiento
 El Árbol de Navidad Inteligente responde automáticamente a las condiciones ambientales mediante el uso de sensores y actuadores. El árbol cuenta con un sensor DHT22 para medir la temperatura y la humedad del entorno, y una fotoresistencia para medir la luz ambiental. En base a estas mediciones:
 
@@ -37,14 +37,14 @@ Si la humedad es mayor, regresan a su posición original.
 |Arduino IDE|2.1.0|
 
 ## Dibujo del personaje
-Imagen hecha a mano o con software
+#Imagen hecha a mano o con software
 https://drive.google.com/file/d/1mC4wcYfY8pW28YGr1tL7Wc4A-pWKjj1L/view?usp=sharing
 
 ## Enlaces de la simulación de wokwi
 Deben ser de 1 a 2 enlaces de wokwi
-Intrumento de evalucaicon simulacion
+#Intrumento de evalucaicon simulacion
 https://wokwi.com/projects/410221623299292161
-Simulacion de proyecto navideño
+#Simulacion de proyecto navideño
 https://wokwi.com/projects/409869275036559361
 
 ## Videos
