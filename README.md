@@ -22,7 +22,7 @@ Si la humedad es mayor, regresan a su posición original.
 |-----------------------|-----------------------------------------------------------------------------------------------------------------|----------|--------|
 | Servo Motor            | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnOPdiGqJLfiO8Ji1tYe0tQRa9uYtML4urAHLxenhDFHwtqbon3UHiukkhQNLtXV5lz4Q&usqp=CAU" width="100"/>                       | 2        | 55.00  |
 | Leds                  | ![image](https://github.com/user-attachments/assets/2c3859f3-5e1e-4059-8e31-eacc9969be01)                       | 100      | 65.00  |
-| Sensor Proximidad     | ![image](https://www.google.com/imgres?q=sensor%20proximidad%20arduino&imgurl=https%3A%2F%2Felectronicamade.com%2Fwp-content%2Fuploads%2F2020%2F03%2Fsensor-distancia-ultrasonido-1.jpg&imgrefurl=https%3A%2F%2Felectronicamade.com%2Fsensor-ultrasonico%2F&docid=drjrvirL0xhl1M&tbnid=yAqQmB6Tsd323M&vet=12ahUKEwiEt6D94OSIAxXhLUQIHZ2LJTcQM3oECBwQAA..i&w=1200&h=852&hcb=2&ved=2ahUKEwiEt6D94OSIAxXhLUQIHZ2LJTcQM3oECBwQAA) width="100"/>                      | 1        | 95.00  |
+| Sensor Proximidad | ![Sensor Proximidad](https://electronicamade.com/wp-content/uploads/2020/03/sensor-distancia-ultrasonido-1.jpg) | Cantidad | Precio   |
 | Sensor DHT22          | ![image](https://github.com/user-attachments/assets/6c4a3eed-1385-4644-91fd-9391c858c7d6)                       | 1        | 19.81  |
 | Sensor Fotoresistencia | <img src="https://www.makerelectronico.com/wp-content/uploads/2017/06/Sensor-de-luz-con-fotoresistencia-LDR-3.png" width="100"/> | 1        | 30.00  |
 | Jumpers               | ![image](https://github.com/user-attachments/assets/54b3a6ac-27d8-4012-938f-68d0a5b03d82)                       | 69       | 120.00 |
