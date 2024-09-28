@@ -58,3 +58,5 @@ https://drive.google.com/file/d/16R-N-r0YRyMw_hxZRwkijTBGcfGa2FGI/view?usp=shari
 
 ## Capturas de Evaluaciones de Curso de C
 Capturas de pantalla de sus resultados de evaluaciones del curso de C.
+
+
