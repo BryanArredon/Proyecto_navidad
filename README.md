@@ -18,15 +18,17 @@ Si la humedad es menor al 30%, las ramas se abren a 90 grados.
 Si la humedad es mayor, regresan a su posición original.
 
 ## Materiales a utlizar
-|Material|Imagen|Cantidad|Costo|
-|Servo Motor|![image](https://github.com/user-attachments/assets/43659a6b-5522-4065-95a6-dfd0610b316c)|2|55.00|
-|Leds|![image](https://github.com/user-attachments/assets/2c3859f3-5e1e-4059-8e31-eacc9969be01)|100|65.00|
-|Sensor Proximidad|![image](https://github.com/user-attachments/assets/e5d7a7d2-98bb-41dc-a538-a873281f25c2)|1|95.00|
-|Sensor DHT22|![image](https://github.com/user-attachments/assets/6c4a3eed-1385-4644-91fd-9391c858c7d6)|1|19.81|
-|Sensor Photoresistencia|![image](https://github.com/user-attachments/assets/0f956b4a-d038-4b1b-a926-6f0362594c1e)|1|30.00|
-|Jumpers|![image](https://github.com/user-attachments/assets/54b3a6ac-27d8-4012-938f-68d0a5b03d82)|69|120.00|
-|Tarjetas de Desarrollo Uno|![image](https://github.com/user-attachments/assets/c5f03d59-8d94-4442-a30f-5d99acef2581)|1|170.00|
-||![image](https://github.com/user-attachments/assets/96f5f1a2-3e0f-429c-a3b5-a2c2250a38d8)|1|106.00|
+| Material              | Imagen                                                                                                          | Cantidad | Costo  |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------|----------|--------|
+| Servo Motor           | ![image](https://github.com/user-attachments/assets/43659a6b-5522-4065-95a6-dfd0610b316c)                       | 2        | 55.00  |
+| Leds                  | ![image](https://github.com/user-attachments/assets/2c3859f3-5e1e-4059-8e31-eacc9969be01)                       | 100      | 65.00  |
+| Sensor Proximidad     | ![image](https://github.com/user-attachments/assets/e5d7a7d2-98bb-41dc-a538-a873281f25c2)                       | 1        | 95.00  |
+| Sensor DHT22          | ![image](https://github.com/user-attachments/assets/6c4a3eed-1385-4644-91fd-9391c858c7d6)                       | 1        | 19.81  |
+| Sensor Fotoresistencia| ![image](https://github.com/user-attachments/assets/0f956b4a-d038-4b1b-a926-6f0362594c1e)                       | 1        | 30.00  |
+| Jumpers               | ![image](https://github.com/user-attachments/assets/54b3a6ac-27d8-4012-938f-68d0a5b03d82)                       | 69       | 120.00 |
+| Tarjetas de Desarrollo Uno | ![image](https://github.com/user-attachments/assets/c5f03d59-8d94-4442-a30f-5d99acef2581)                  | 1        | 170.00 |
+| Fuente de Alimentación| ![image](https://github.com/user-attachments/assets/96f5f1a2-3e0f-429c-a3b5-a2c2250a38d8)                       | 1        | 106.00 |
+
 
 ## Software a utilizar
 |Software|Versión|
