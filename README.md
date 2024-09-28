@@ -38,9 +38,7 @@ Si la humedad es mayor, regresan a su posición original.
 
 ## Dibujo del personaje
 Imagen hecha a mano o con software
-| Dibujo | Imagen Arbol                                                   | 
-|---------------------|-----------------------------------------------------------|
-| Mi Dibujo         | <img src="https://drive.google.com/file/d/1mC4wcYfY8pW28YGr1tL7Wc4A-pWKjj1L/view?usp=sharing" width="100"/> | 
+https://drive.google.com/file/d/1mC4wcYfY8pW28YGr1tL7Wc4A-pWKjj1L/view?usp=sharing
 
 ## Enlaces de la simulación de wokwi
 Deben ser de 1 a 2 enlaces de wokwi
