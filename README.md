@@ -26,7 +26,7 @@ Si la humedad es mayor, regresan a su posición original.
 | Sensor DHT22          | ![image](https://github.com/user-attachments/assets/6c4a3eed-1385-4644-91fd-9391c858c7d6)                       | 1        | 19.81  |
 | Sensor Fotoresistencia | <img src="https://www.makerelectronico.com/wp-content/uploads/2017/06/Sensor-de-luz-con-fotoresistencia-LDR-3.png" width="100"/> | 1        | 30.00  |
 | Jumpers               | ![image](https://github.com/user-attachments/assets/54b3a6ac-27d8-4012-938f-68d0a5b03d82)                       | 69       | 120.00 |
-| Tarjetas de Desarrollo Uno | ![image](https://github.com/user-attachments/assets/c5f03d59-8d94-4442-a30f-5d99acef2581)                  | 1        | 170.00 |
+| Tarjetas de Desarrollo Uno | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6TyY0A1XQBsssdyY7YJgF18oU2u_YGzIMtA&s" width="100">                  | 1        | 170.00 |
 | Fuente de Alimentación| <img src="https://http2.mlstatic.com/D_NQ_NP_677954-MLU74842913212_032024-O.webp" width="100"/>                       | 1        | 106.00 |
 
 
