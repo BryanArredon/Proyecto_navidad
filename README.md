@@ -20,7 +20,7 @@ Si la humedad es mayor, regresan a su posición original.
 ## Materiales a utlizar
 | Material              | Imagen                                                                                                          | Cantidad | Costo  |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------|----------|--------|
-| Servo Motor           | ![image](https://github.com/user-attachments/assets/43659a6b-5522-4065-95a6-dfd0610b316c)                       | 2        | 55.00  |
+| Servo Motor            | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnOPdiGqJLfiO8Ji1tYe0tQRa9uYtML4urAHLxenhDFHwtqbon3UHiukkhQNLtXV5lz4Q&usqp=CAU" width="100"/>                       | 2        | 55.00  |
 | Leds                  | ![image](https://github.com/user-attachments/assets/2c3859f3-5e1e-4059-8e31-eacc9969be01)                       | 100      | 65.00  |
 | Sensor Proximidad     | ![image](https://github.com/user-attachments/assets/e5d7a7d2-98bb-41dc-a538-a873281f25c2)                       | 1        | 95.00  |
 | Sensor DHT22          | ![image](https://github.com/user-attachments/assets/6c4a3eed-1385-4644-91fd-9391c858c7d6)                       | 1        | 19.81  |
