@@ -27,7 +27,7 @@ Si la humedad es mayor, regresan a su posición original.
 | Sensor Fotoresistencia | <img src="https://www.makerelectronico.com/wp-content/uploads/2017/06/Sensor-de-luz-con-fotoresistencia-LDR-3.png" width="100"/> | 1        | 30.00  |
 | Jumpers               | ![image](https://github.com/user-attachments/assets/54b3a6ac-27d8-4012-938f-68d0a5b03d82)                       | 69       | 120.00 |
 | Tarjetas de Desarrollo Uno | ![image](https://github.com/user-attachments/assets/c5f03d59-8d94-4442-a30f-5d99acef2581)                  | 1        | 170.00 |
-| Fuente de Alimentación| ![image](https://github.com/user-attachments/assets/96f5f1a2-3e0f-429c-a3b5-a2c2250a38d8)                       | 1        | 106.00 |
+| Fuente de Alimentación| <img src="https://www.google.com/imgres?q=power%20bank%20&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F71jcK4jMMzL._AC_UF1000%2C1000_QL80_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com.mx%2FHora-20000mAh-Port%25C3%25A1til-Compatible-Incorporado%2Fdp%2FB0CM99T6T1&docid=EYFq4Hav9fP5PM&tbnid=RZ0ta5_vkDBmKM&vet=12ahUKEwjPk6DR4-SIAxXdHNAFHSRcGzYQM3oECBwQAA..i&w=732&h=1000&hcb=2&ved=2ahUKEwjPk6DR4-SIAxXdHNAFHSRcGzYQM3oECBwQAA" width="100"/>                       | 1        | 106.00 |
 
 
 ## Software a utilizar
