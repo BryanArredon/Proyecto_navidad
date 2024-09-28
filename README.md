@@ -38,6 +38,7 @@ Si la humedad es mayor, regresan a su posición original.
 
 ## Dibujo del personaje
 Imagen hecha a mano o con software
+<img src="https://ejemplo.com/mi-imagen.jpg" width="100"/>
 
 ## Enlaces de la simulación de wokwi
 Deben ser de 1 a 2 enlaces de wokwi
