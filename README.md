@@ -29,16 +29,25 @@ Si la humedad es mayor, regresan a su posición original.
 |Software|Versión|
 |--|--|
 |Thonny|4.1.6|
-|...||
+|Arduino IDE|2.1.0|
 
 ## Dibujo del personaje
 Imagen hecha a mano o con software
 
 ## Enlaces de la simulación de wokwi
 Deben ser de 1 a 2 enlaces de wokwi
+Intrumento de evalucaicon simulacion
+https://wokwi.com/projects/410221623299292161
+Simulacion de proyecto navideño
+https://wokwi.com/projects/409869275036559361
 
 ## Videos
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
+Instrumento 
+https://drive.google.com/file/d/1hHdhnSzBPGhd9PM11E1yoPaB05LWfKcQ/view?usp=sharing
+Arbol inteligente 
+https://drive.google.com/file/d/16R-N-r0YRyMw_hxZRwkijTBGcfGa2FGI/view?usp=sharing
+
 
 
 ## Capturas de Evaluaciones de Curso de C
