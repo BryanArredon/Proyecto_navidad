@@ -2,11 +2,20 @@
 
 # Personaje2024
 ## Nombre del personaje
-EL GRINCH
+Arbol de navidad inteligente 
 ## Creador
-José Emmanuel Arredondo Escalante
+Bryan Emilio Arredondo López 
 ## Explicacion del funcionamiento
-El personaje al momento que se acerca 5 cm una persona comienza a hacer algo (descripcion luz, sonido y movimiento), da una explicación completa.
+El Árbol de Navidad Inteligente responde automáticamente a las condiciones ambientales mediante el uso de sensores y actuadores. El árbol cuenta con un sensor DHT22 para medir la temperatura y la humedad del entorno, y una fotoresistencia para medir la luz ambiental. En base a estas mediciones:
+
+Si la temperatura es mayor a 30°C, el árbol enciende un LED rojo.
+Dependiendo de la cantidad de luz ambiental:
+Si está oscuro, enciende un LED verde.
+Si la luz es intermedia, enciende un LED rojo.
+Si está completamente iluminado, enciende un LED azul.
+Dos servomotores simulan el movimiento de las ramas del árbol, ajustándose de acuerdo a los niveles de humedad:
+Si la humedad es menor al 30%, las ramas se abren a 90 grados.
+Si la humedad es mayor, regresan a su posición original.
 
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
