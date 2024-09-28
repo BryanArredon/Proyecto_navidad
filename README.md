@@ -21,7 +21,7 @@ Si la humedad es mayor, regresan a su posición original.
 |Material|Imagen|Cantidad|Costo|
 |--|--|--|--|
 |ESP32|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100"/>|1|120.00|
-|HC-SR04|<img width="100" src="https://github.com/user-attachments/assets/e8f3a364-83e3-4194-9eb1-15547012fb1b" />|1|30.00|
+|HC-SR04|<img src="https://github.com/user-attachments/assets/e8f3a364-83e3-4194-9eb1-15547012fb1b" width="100"/>|1|30.00|
 |...||||
 
 ## Software a utilizar
