@@ -75,3 +75,11 @@ https://github.com/BryanArredon/Imagenes/blob/main/C/5.9.2%20Module%205%20Test.p
 ## Capturas de Evaluaciones de Curso de Python
 Capturas de pantalla de sus resultados de evaluaciones del curso de Python.
 
+https://github.com/BryanArredon/Imagenes/blob/main/img_exa_py/2.7.%20Finalización%20del%20Módulo%202%20-%20QUIZ%20DEL%20MÓDULO.png
+
+https://github.com/BryanArredon/Imagenes/blob/main/img_exa_py/2.7.%20Finalización%20del%20Módulo%202%20-%20QUIZ%20DEL%20MÓDULO.png
+
+https://github.com/BryanArredon/Imagenes/blob/main/img_exa_py/4.8.%20Finalización%20del%20Módulo%204%20Prueba%20del%20Módulo.png
+
+https://github.com/BryanArredon/Imagenes/blob/main/img_exa_py/Prueba%20Final.png
+
