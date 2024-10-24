@@ -59,16 +59,7 @@ https://drive.google.com/file/d/16R-N-r0YRyMw_hxZRwkijTBGcfGa2FGI/view?usp=shari
 ## Capturas de Evaluaciones de Curso de C
 Capturas de pantalla de sus resultados de evaluaciones del curso de C.
 
-#1.3.2 Module 1 Test
-https://drive.google.com/file/d/1_c1uW2gtK3UpGkKyqWrv7TQraZzFGgDj/view?usp=sharing
-#2.5.2 Module 2 Test
-#https://drive.google.com/file/d/1XUlIyxxdr8jXqJmUSs7FTxzmh3HuBGbS/view?usp=sharing
-#3.5.2 Module 3 Test
-https://drive.google.com/file/d/1TN2OalziF9ZfQc3VLzG7QnyAtyld2nAk/view?usp=sharing
-#4.10.2 Module 4 Test
-https://drive.google.com/file/d/1YGXIRfUQFexjjF1eX4ge6IhfbOK0VgHG/view?usp=sharing
-#5.9.2 Module 5 Test
-https://drive.google.com/file/d/1qw427pItxs8ypx3V_AmsWK7_TU-DfHAV/view?usp=sharing
+https://github.com/BryanArredon/Imagenes/blob/main/C/1.3.2%20Module%201%20Test.png
 
 
 
