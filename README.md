@@ -62,5 +62,16 @@ Capturas de pantalla de sus resultados de evaluaciones del curso de C.
 [https://github.com/BryanArredon/Imagenes/blob/main/C/1.3.2%20Module%201%20Test.png](https://raw.githubusercontent.com/BryanArredon/Imagenes/main/C/2.5.2%20Module%202%20Test.png
 )
 
+https://github.com/BryanArredon/Imagenes/blob/main/C/1.3.2%20Module%201%20Test.png
 
+https://github.com/BryanArredon/Imagenes/blob/main/C/2.5.2%20Module%202%20Test.png
+
+https://github.com/BryanArredon/Imagenes/blob/main/C/3.5.2%20Module%203%20Test.png
+
+https://github.com/BryanArredon/Imagenes/blob/main/C/4.10.2%20Module%204%20Test.png
+
+https://github.com/BryanArredon/Imagenes/blob/main/C/5.9.2%20Module%205%20Test.png
+
+## Capturas de Evaluaciones de Curso de Python
+Capturas de pantalla de sus resultados de evaluaciones del curso de Python.
 
