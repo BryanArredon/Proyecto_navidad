@@ -59,7 +59,8 @@ https://drive.google.com/file/d/16R-N-r0YRyMw_hxZRwkijTBGcfGa2FGI/view?usp=shari
 ## Capturas de Evaluaciones de Curso de C
 Capturas de pantalla de sus resultados de evaluaciones del curso de C.
 
-https://github.com/BryanArredon/Imagenes/blob/main/C/1.3.2%20Module%201%20Test.png
+[https://github.com/BryanArredon/Imagenes/blob/main/C/1.3.2%20Module%201%20Test.png](https://raw.githubusercontent.com/BryanArredon/Imagenes/main/C/2.5.2%20Module%202%20Test.png
+)
 
 
 
