@@ -83,3 +83,33 @@ https://github.com/BryanArredon/Imagenes/blob/main/img_exa_py/4.8.%20Finalizaci�
 
 https://github.com/BryanArredon/Imagenes/blob/main/img_exa_py/Prueba%20Final.png
 
+
+## Video de Tiktok Proyecto Final
+## "Auditorio Municipal Mariano Abasolo en Dolores Hidalgo C.I.N., Gto. en Navidad con Árbol y Santa Claus."
+https://vm.tiktok.com/ZMkdAJR9F/ 
+
+Descripcion del prototipo: Elaboracion del Auditorio Mariano Abasolo de Dolores Hidalgo C.I.N., Gto. en Navidad el cual inclye un árbol navideño junto con un Santa Claus, teniendo como funcionalidad que cuandos ambos sensores detectan un objeto a un metro de distancia se reproduce una melodía navideña, a siendo a su ves un movimiento circular del árbol, al terminar dicho movimiento también se mueve el Santa Claus y encienden los leds del árbol y del Auditorio. Cuando terminan los movimientos se quedan encendidos todos los leds parpadeando.
+![Imagen de WhatsApp 2024-12-05 a las 15 03 03_b4aaa166](https://github.com/user-attachments/assets/6a619a82-20d9-4d06-86b5-b53751da34fe)
+
+
+## Códigos de Arduino y Node - Red
+![image](https://drive.google.com/file/d/1X8osedGvxUlceCfiMfo4OtaEwssXOtLh/view?usp=sharing) 
+![image](https://drive.google.com/file/d/1chvqqDZ4olbqCOjKhMGml1ptmcZX5lOp/view?usp=sharing) 
+
+## Videos de Actividades en Clase de Unidad 2 
+https://drive.google.com/drive/folders/1uNMGuuw8ipQ8SR9rVvmSqHGqo1upu0ua?usp=drive_link 
+
+## Videos de Actividades en Clase de Unidad 3
+https://drive.google.com/drive/folders/1uKCDp9PoHsukPm6HtpYyFBKliAPpftkN?usp=drive_link 
+
+## Capturas de Evaluaciones de Curso de JavaScript
+Capturas de pantalla de sus resultados de evaluaciones del curso de JavaScript.
+![image](https://github.com/user-attachments/assets/ea6d95b1-bae8-4ea7-b599-61e5bf6d4338)
+![image](https://github.com/user-attachments/assets/2a8f96b7-6e7b-4140-a11d-9dcefd005df0)
+![image](https://github.com/user-attachments/assets/6664e524-b369-4fd2-a201-4402deb24e58)
+![image](https://github.com/user-attachments/assets/4061c448-016e-4be7-9f85-17b452d8561a)
+![image](https://github.com/user-attachments/assets/e7f06274-4785-4d39-adf7-cfefafbb7935)
+![image](https://github.com/user-attachments/assets/a99b5d03-9fe9-481f-895c-ede93614d676)
+
+Examen Final 
+![image](https://github.com/user-attachments/assets/1b3e155a-e045-4536-8fa8-bc364478b237)
